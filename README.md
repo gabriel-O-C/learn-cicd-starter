@@ -57,4 +57,3 @@ Because the `DATABASE_URL` environment variable is set, the server will connect 
 * Create a user (login as that user)
 * Save notes
 * Logout (To log in again you'll just create a new user)
-
